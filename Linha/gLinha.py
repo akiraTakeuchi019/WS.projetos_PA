@@ -1,5 +1,3 @@
-# Desculpa pedro (Exeto o eiji que não ligo E especialmente vsf cebolinha)
-
 import streamlit as st;
 import pandas as pd;
 
