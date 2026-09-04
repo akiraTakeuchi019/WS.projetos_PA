@@ -1,3 +1,8 @@
+# contas do github:
+# kalango1231 (kaike)
+# pedrofacundo810-cmyk (Pedro F)
+# akiraTakeuchi019 (icaro)
+
 import streamlit as st
 
 st.set_page_config(
