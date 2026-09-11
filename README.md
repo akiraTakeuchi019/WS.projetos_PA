@@ -1,6 +1,8 @@
 # WS.projetos_PA
 Projetos de PA de 1-DS-A
 
+GUILHERME PFV EDITA PARA COPIAR
+
 import streamlit as st
 import pandas as pd
 import os
